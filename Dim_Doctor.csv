@@ -1,0 +1,22 @@
+doctor_id,doctor_name,specialization,department_id,experience_years,consultation_fee
+2001,Dr. Sanjay Pillai,Cardiologist,1,9,500
+2002,Dr. Vikram Nair,Cardiologist,1,20,1000
+2003,Dr. Vijay Menon,Orthopedic Surgeon,2,9,300
+2004,Dr. Vikram Raghavan,Orthopedic Surgeon,2,9,1200
+2005,Dr. Anand Raghavan,Neurologist,3,12,700
+2006,Dr. Manoj Krishnan,Neurologist,3,5,400
+2007,Dr. Kavya Subramaniam,Neurologist,3,29,800
+2008,Dr. Ganesh Gupta,Pediatrician,4,5,1000
+2009,Dr. Vikram Chandran,Pediatrician,4,28,800
+2010,Dr. Vijay Sharma,Pediatrician,4,23,600
+2011,Dr. Ravi Iyer,General Physician,5,14,700
+2012,Dr. Deepa Rao,General Physician,5,13,800
+2013,Dr. Sanjay Nair,General Physician,5,21,500
+2014,Dr. Ganesh Varma,Dermatologist,6,10,600
+2015,Dr. Ananya Pillai,Dermatologist,6,28,300
+2016,Dr. Swathi Nair,ENT Specialist,7,8,800
+2017,Dr. Ashok Varma,ENT Specialist,7,30,1200
+2018,Dr. Sanjay Reddy,ENT Specialist,7,9,700
+2019,Dr. Deepa Pillai,Gynecologist,8,6,1200
+2020,Dr. Rohit Iyer,Gynecologist,8,6,500
+2021,Dr. Sowmya Nair,Gynecologist,8,14,1000
