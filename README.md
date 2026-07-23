@@ -104,3 +104,10 @@ Dim_Department ──< Dim_Doctor ──< Fact_Appointment >── Dim_Patient
 - All SQL queries were run and verified in Snowflake before publishing.
 - Screenshots were captured with all filters reset to "All" so the numbers
   reflect the full dataset.
+
+## Author - AADIL IQBAL A
+This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
+
+LinkedIn: https://www.linkedin.com/in/aadiliqbal24/
+
+Thank you
