@@ -75,7 +75,6 @@ Dim_Department ──< Dim_Doctor ──< Fact_Appointment >── Dim_Patient
 
 ## Power BI Dashboard
 
-![Hospital Performance Overview](powerbi/screenshots/hospital_performance_overview.png)
 
 **Dashboard includes:**
 - Executive KPIs: Total Revenue, Total Appointments, Average Treatment Cost, No-Show Rate
@@ -85,11 +84,7 @@ Dim_Department ──< Dim_Doctor ──< Fact_Appointment >── Dim_Patient
 - Doctor performance table: revenue, appointment count, average treatment cost, no-show rate per doctor
 - Slicers: Metrics, City, Quarter, Gender
 
-📁 [Download the .pbix file](powerbi/Hospital_Dashboard.pbix) to explore
-the dashboard interactively in Power BI Desktop.
 
-📄 [Dashboard Analysis & Insights](powerbi/powerbi_dashboard_analysis.md) —
-a worked analysis of every visual, with findings and follow-up questions.
 
 **Key findings:**
 - No-shows + cancellations account for ~20% of all scheduled appointments — the biggest operational improvement opportunity.
